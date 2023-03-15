@@ -1,0 +1,16 @@
+.card{
+    width: 387px;
+    min-height: 382px;
+    border: 1px solid #000000;
+    border-radius: 8px;
+    background-color: #000000;
+}
+
+.card:hover{
+    transition: background-color 0.9s;
+    background-color: burlywood;
+}
+
+.card:not(hover){
+    transition: background-color 0.9s;
+}

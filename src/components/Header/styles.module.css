@@ -1,0 +1,5 @@
+.header{
+    display: flex;
+    border-bottom: .5px solid #000000;
+    align-items: center;
+}
